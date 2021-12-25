@@ -6,5 +6,6 @@ public class demoimp {
 	
 	{
 		String name="pragna";
+		String name="naveen"
 	}
 }
